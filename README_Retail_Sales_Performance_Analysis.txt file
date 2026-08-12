@@ -1,0 +1,51 @@
+Retails Sales Performance Analysis Dashboard
+Objective
+
+To analyze retail sales data using Microsoft Excel and Create an interactive dashboard that helps identify sales performance across products, regions, customer types, payment methods 
+salespeople, and store Locations
+
+Tools Used
+
+.Microsoft Excel
+.Excel Formulas
+.PivotTables
+.PivotCharts
+.Excel Dashboard
+.Data Cleaning
+.Data Analysis
+
+Key Metrics
+
+- Total Orders: 1,500
+- Total Quantity Sold: 10,467
+- Total Net Sales: $4,338,731.489
+
+Analysis Performed
+
+- Analyzed net sales by region.
+- Analyzed net sales by products.
+- Compared Sales by customer type.
+- Compared Sales by payment method.
+- Evaluated Salesperson performance.
+- Analyzed Sales by store location.
+- Identified best-selling products based on quantity sold.
+- Created KPI metrics and visual dashboard charts.
+
+Business Insights
+
+- Identified differences in sales performance across regions and store location.
+- Compared Product performance using both net sales and quantity sold.
+- Evaluated customer types to understand purchasing patterns.
+- Compared payment methods to understand how customers complete purchases.
+- Evaluated salesperson performance using net sales.
+- Used dashboard KPIs to provide a quick overview of overall sales performance.
+
+Business insights
+
+- The West region generated the highest net sales, totalling $845,802.319
+- Laptop generated the highest net sales among all products,totalling $677,979.8015
+- Tablets were the best-selling products by quantity, with 2,577 unit sold
+- Eva was the top-performing salesperson, generating $692,444.8095 in net sales
+- Store Location D generated the highest net sales, totalling $1,194,454.13
+- Retail customers generated the highest net sales, contributing $2,175,191.263
+- Online payments generated the highest net sales among payment methods, totalling $962,127.87
